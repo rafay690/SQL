@@ -1,2 +1,2 @@
-# SQL-
+# SQL
 Sql practice labs
